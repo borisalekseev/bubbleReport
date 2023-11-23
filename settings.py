@@ -10,7 +10,7 @@ COLUMNS = {
     "scheme_id": "scheme_id",
     "compound_id": "compound_id(from scc)",
     "stage_reagent_cond_id": "stage_reagent_cond_id",
-    "category": "category",
+    "intermediate_category": "intermediate_category",
     "reagent_category": "reagent_category",
     "reagent_type": "reagent_type",
     "inn_eng": "API",
